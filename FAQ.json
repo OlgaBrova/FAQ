@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "keywords": ["difference", "training", "academy"],
+        "question": "What is the difference between training and academy?",
+        "answer": "Trainings are a short form of education (from 1 to 3 months) and are intended for people who already work in a particular professional field and want to complement their knowledge or for people who want to explore a particular sector in order to decide what specialization route they should take.\nAcademies are a broader form of education (from 6 to 12 months) and are intended for beginners who want to specialize in a particular profession. The programs at these academies are closely aligned with the job positions which are in high demand on the market."
+        
+    },
+    {      
+        "id": 2,
+        "keywords": ["offer", "duration", "academies"],
+        "question": "What academies does SEDC offer and what is their duration?",
+        "answer": "SEDC is a specialized training center that organizes academies in the areas of programming, computer networks and design. The total number of academic programs that we provide from these areas is 7.\nIf you would like to obtain additional information about the aforementioned programs, the duration, and the courses schedule, please click on the titles of the academies.",
+        "links": [{"name": "Web Programming", "link": "https://www.sedc.mk/academy/academy-for-programing/web-developer/"}, {"name": "CloudOps Network Engineer", "link": "https://www.sedc.mk/academy/academy-for-computer-networks/cloudops-network-engineer/"}, {"name": "Cyber Specialist", "link": "https://www.sedc.mk/academy/academy-for-computer-networks/security-specialist/"}, {"name": "Graphic Design", "link": "https://www.sedc.mk/academy/academy-for-design/graphic-designer/"}, {"name": "Web Design", "link": "https://www.sedc.mk/academy/academy-for-design/web-design/"}, {"name": "3D Game Design", "link": "https://www.sedc.mk/academy/academy-for-design/3d-animator/"}, {"name": "Software Test", "link": "https://www.sedc.mk/academy/academy-for-software-testing/software-tester/"}]
+    },
+    {
+        "id": 3,
+        "keywords": ["age", "old"],
+        "question": "What is the intended age group of these academies?",
+        "answer": "The academies are intended for persons over 18 years with a minimum of completed secondary education, there is no upper age limit. Every year, an increasing number of people over 30 follow these programs as the fastest and the most effective form of personal retraining."
+    },
+    {
+        "id": 4,
+        "keywords": ["beginners", "background", "knowledge"],
+        "question": "Are these academies intended for beginners and do you need to have a certain kind of relevant background knowledge of IT or design?",
+        "answer": "The programs at the academies are designed for people who wish to specialize or retrain in order to start a new career in the IT or the design industry. Each program is aligned with the profiles required by companies in these areas.\n You do not need prior knowledge in order to enter the programs but it is very important that you identify if the problems of the chosen direction are a match for your personality type and most importantly, whether you would love to work in this sector or not.\nTo identify better your personality type and seek consultations, please schedule your appointment with us on the following telephone number: 078 499 462."
+    },
+    {
+        "id": 5,
+        "keywords": ["macedonian", "english", "language"],
+        "question": "Which language is used in the lectures?",
+        "answer": "The lectures at the academies are delivered in the Macedonian language, but there is also the option of following the lectures in the English language at the Web Programming Academy."
+    },
+    {
+        "id": 6,
+        "keywords": ["market", "field", "demand"],
+        "question": "What field do I specialize in, what field is in the highest demand on the market?",
+        "answer": "All the programs we offer are in high demand and aligned with the needs on the market. To find out more information about the programs schedule a meeting with us on the following telephone number: 078 499 462."
+    },
+    {
+        "id": 7,
+        "keywords": ["practical", "projects"],
+        "question": "Are practical lessons included in the programs and do you work on real projects?",
+        "answer": "All programs are a combination of theoretical and practical lectures which are delivered by individuals from the business sector who directly share their knowledge and experience with you. During your studies you are going to work on various individual and team projects, and some of them are intended for selected companies."
+    },
+    {
+        "id": 8,
+        "keywords": ["recognized", "recognition"],
+        "question": "Where are the academies recognized?",
+        "answer": "The program of these academies is created by the business sector in order to educate staff who will be able to work and meet their expectations. Given that these professions are technical and require practical knowledge, you can apply the things you learn anywhere in the world."
+    },
+    {
+        "id": 9,
+        "keywords":  ["recognized", "certificate", "internationally", "diploma"],
+        "question": "Will I receive a certificate upon course completion and is it internationally recognized?",
+        "answer": "When you complete a course you will receive a DIPLOMA for successfully completed or attended academy in conjunction with your performance and score. At some of the academies, for specific subjects which are attended after the official program and after they are passed, the student also receives an official CERTIFICATE which is internationally recognized."
+    },
+    {
+        "id": 10,
+        "keywords":  ["job", "employment", "employed", "companies"],
+        "question": "Can I get a job with my diploma?",
+        "answer": "In this profession, practical knowledge and your portfolio acquired at the academy and outside of it will have you employed. After the completion of these academies, your results and recommendations from trainers will be the first stepping stones. In addition to the companies with which we have signed a memorandum for cooperation, where some of our students attend practical classes, there is a great number of IT companies in which our students and trainers from the academies are already working and who contact us immediately when new job positions are opened, requiring contacts from students who possess the required qualifications. Since the programs at the academies are created in accordance with the job positions, in coordination with mentors and trainers who come from the IT industry, the program itself calibrates you into a program which is desirable for employment.."
+    },
+    {
+        "id": 11,
+        "keywords":  ["internship",  "employed", "employment"],
+        "question": "Do you provide internship in the companies?",
+        "answer": "The majority of the students who complete these programs (over 80%) are immediately employed. There is a compulsory internship in the companies in some of the academies."
+    },
+    {
+        "id": 12,
+        "keywords":  ["technical",  "laptop", "equipment", "computer"],
+        "question": "Do I need to bring my own technical equipment to follow the lectures?",
+        "answer": "There are 7 computer laboratories equipped with all the equipment necessary for following the lectures and 2 rooms where you work with your laptop.\nAcademies at which bringing your personal equipment is compulsory: Visual Arts Academy and Software Test Academy."
+    },
+    {
+        "id": 13,
+        "keywords":  ["start",  "enrollment"],
+        "question": "What day do the academies start and what is the open enrollment period?",
+        "answer": "Each year, the lectures at the academies start on October 15th. The entries are open from February 1st and last until the beginning of the lectures or until all the vacancies are filled. We recommend that you book your place on time and to use the early-entry discounts."
+    },
+    {
+        "id": 14,
+        "keywords":  ["cost",  "money", "costs", "price"],
+        "question": "How much do the academies cost?",
+        "answer": "The prices at the academies depend on the programs and the number of lessons and vary from 1.850 EU to 3.000 EU, with possibility of different ways of payment.\nThe prices per academy and discounts for early entry are available at the following link:","links": [{"name": "Academies prices", "link": "https://www.sedc.mk/academy/admission/"}]
+    },
+    {
+        "id": 15,
+        "keywords":  ["cost",  "money", "costs", "price" ],
+        "question": "Are there any hidden costs included in the price and are there additional payments during the studies?",
+        "answer": "The prices do not have hidden costs and the same cover the materials, the diploma and the official certificates, for the programs that include them."
+    },
+    {
+        "id": 16,
+        "keywords":  ["payment",  "paying", "payments", "pay", "cash"],
+        "question": "What are the payment methods?",
+        "answer": "Payments can be made by natural persons and legal entities. We conclude a contract with every individual or legal entry according to data from the application for entries in which the payment method is defined.\nPayments can be made in the following ways:\n1. In installments without a guarantor (for legal entities and natural persons who are regularly employed).\n2. In installments with a guarantor (intended exclusively for natural persons who are not regularly employed).\n3. In cash.\nAfter the conclusion of the contract it is necessary to pay min. 10% of the agreed price, while the last installment is paid by September at the latest, before the start of the new academic year.\nThe prices per academy and discounts for early entry are available at the following link:",
+        "links": [{"name": "Academies prices", "link": "https://www.sedc.mk/academy/admission/"}]
+    },
+    {
+        "id": 17,
+        "keywords":  ["apply",  "application", "sign up"],
+        "question": "How can I apply?",
+        "answer": "Choose a button according to the city you wish to apply in and you'll get the application form",
+        "links": [{"name": "Skopje and Ohrid (MK)", "link": "https://docs.google.com/forms/d/e/1FAIpQLSfamWShsXlBZqvMf3WoAKpr2jW5zr4AO7a4XGD7ch_V1KvVmg/viewform"}, {"name": "Skopje and Ohrid (ENG)", "link": "https://docs.google.com/forms/d/e/1FAIpQLScpttIe7uyK8bkxkeAcryn3h31lpuKFtCCfFdXp0a_oLqD79w/viewform"}, {"name": "Nish (SRB)", "link": "https://docs.google.com/forms/d/e/1FAIpQLSdwAHz2ZkD8VGEzHXQ-RcckowQ09I0mC7aAr-CUi6yoLndRwA/viewform"}]
+    },
+    {
+        "id": 18,
+        "keywords":  ["after applying"],
+        "question": "What happens after applying?",
+        "answer": "Great, we will contact you within 7 days in order to schedule a meeting to sign the contract. In addition to the agreement which contains all payment information, we issue an invoice for the entire amount.\nBy obtaining the aforementioned documents you officially become our student.\nWe send our first official e-mail for the beginning of the academies (Welcome Day) to your e-mail address from the application by October 7th at the latest."
+    }
+   
+
+
+
+    
+    
+]
